@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shanva</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="title_activity_main">Servicios</string>
+</resources>
